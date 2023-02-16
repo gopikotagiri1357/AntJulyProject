@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T11:53:41 GMT" name="Default suite" finished-at="2022-12-27T11:53:52 GMT" duration-ms="10506">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T11:53:41 GMT" name="Default test" finished-at="2022-12-27T11:53:52 GMT" duration-ms="10506">
+      <class name="com.qa.experiments.Experiments">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.experiments.Experiments@3427b02d]" started-at="2022-12-27T11:53:41 GMT" name="setup" finished-at="2022-12-27T11:53:50 GMT" duration-ms="8486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pickEcpectedDateFromCalender()[pri:0, instance:com.qa.experiments.Experiments@3427b02d]" started-at="2022-12-27T11:53:50 GMT" name="pickEcpectedDateFromCalender" finished-at="2022-12-27T11:53:52 GMT" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pickEcpectedDateFromCalender -->
+      </class> <!-- com.qa.experiments.Experiments -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
